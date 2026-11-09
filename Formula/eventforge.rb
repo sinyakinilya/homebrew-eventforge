@@ -3,6 +3,7 @@ class Eventforge < Formula
   homepage "https://event-forge.app"
   url "https://github.com/sinyakinilya/homebrew-eventforge/releases/download/v0.30.3/eventforge-client-v0.30.3-darwin-arm64.tar.gz"
   version "0.30.3"
+  version_scheme 1
   sha256 "769de7d4aaa5ba3271cb002395dff40472290834b87cccec621b2ee9f2c6b94c"
 
   depends_on :macos
